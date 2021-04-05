@@ -1,4 +1,4 @@
-+TITLE: Christoph3's Dotfiles
+#+TITLE: Christoph3's Dotfiles
 
 * Table of Contents :toc:
 - [[#what-are-dotfiles][What Are Dotfiles?]]
