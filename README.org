@@ -1,0 +1,45 @@
++TITLE: Christoph3's Dotfiles
+
+* Table of Contents :toc:
+- [[#what-are-dotfiles][What Are Dotfiles?]]
+- [[#my-archplasma-configs][My Archlinux Plasma Configs]]
+- [[#my-archplasma-instaltion][My Archlinux Plasma Instalation Scripts]]
+- [[#who-am-i][Who Am I?]]
+- [[#Best-Links][My Prefered Linux Links]]
+- [[#license][License]]
+
+* What Are Dotfiles?
+#+CAPTION: Desktop Scrot
+#+ATTR_HTML: :alt Desktop Scrot :title Desktop Scrot :align left
+[[https://gitlab.com/Christoph3.Silva/dotfiles/-/raw/master/.screenshots/printscreen.png]]
+
+Dotfiles are the customization files that are used to personalize your Linux or other Unix-based system.  You can tell that a file is a dotfile because the name of the file will begin with a period--a dot!  The period at the beginning of a filename or directory name indicates that it is a hidden file or directory.  This repository contains my personal dotfiles. 
+
+* My Archlinux Plasma Configs
+- [[https://gitlab.com/zsh-org/zsh][ZSH]]
+- [[https://github.com/ohmyzsh/ohmyzsh][OH-MY-ZSH]]
+- [[https://github.com/denysdovhan/spaceship-prompt][SPACESHIP]]
+- [[https://draculatheme.com/konsole][DRACULA THEME FOR KONSOLE]]
+- [[https://github.com/tonsky/FiraCode/releases][FIRACODE FONTS]]
+- [[https://github.com/zdharma/zinit][ZSH PLUGIN INSTALLER]]
+
+* My Archlinux Plasma Instalation Scripts
+- [[NIL][Em Construção]]
+
+* Who Am I?
+#+CAPTION: Christoph3 Logo
+#+ATTR_HTML: :alt Christoph3 Logo :title Christoph3 Logo :align left
+[[]]
+
+Hello, I am Christophe Silva (Christoph3), I´m a military guy but after work my passion becomes linux. This repository was made so I could install easily Archlinux from scratch + my personal configurations. If this is helpfull to someone other than me great :) hope you enjoy.
+
+* My Prefered Linux Links
+- [[https://repo.miguelndecarvalho.pt/][Arch Repo from Miguel de Carvalho with lots of goodies]]
+- [[https://podcastubuntuportugal.org/][Portuguese Ubuntu Podcast (Good place to learn while smiling with these amazing ubuntu lovers)]]
+- [[https://linuxtech.pt/][Portuguese Linux & Tech Podcast (Good place to learn tech and linux with this amazing guy)]]
+- [[https://www.kdeblog.com/][One of the best places to find KDE Plasma News]]
+- [[https://costales.github.io/][A Great blog from Marcos Costales]]
+
+*Want to chat?*
+- Look for @ChristophƐ on Telegram.
+- Also, checkout me out on twitter https://twitter.com/Christoph3Silva.
